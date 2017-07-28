@@ -1,5 +1,8 @@
+# I TAKE NO LIABILITY OR RESPONSIBILITY FOR USE OF THIS APPLICATION FOR ANY PURPOSE
+# USE AT YOUR OWN RISK
+
 # dadsassistant
-An android app for Dads suffering from domestic violence (emotional and financial).
+An android app for Dads suffering from domestic violence (emotional and financial) or at risk of losing rights related to your children.
 
 ## Abstract
 If you are a Dad, and either you or your children are facing terror from your STBX, this app will let you keep evidence in case you ended up in family court.
